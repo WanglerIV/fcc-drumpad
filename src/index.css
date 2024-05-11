@@ -99,9 +99,6 @@ main{
     border: 2px solid #ffffff;
     background-color: #9290C3;
     color: black;
-    height: 95px;
-    width: 95px;
-  
   }
 
   @media screen and (max-width: 500px) {
